@@ -47,5 +47,21 @@ body{
     color: salmon;
     background-color: rgb(247, 219, 216);
     border: 5px solid rgb(252, 110, 94);
-    
+    border-radius: 5px;
+    width: 150px;
+    margin-left: 5%;
+}
+.input{
+    border: none;
+    text-align: center;
+    width: 95%;
+    font-size: 20px;
+    padding-top: 5%;
+}
+#border{
+    border-bottom: 1px solid gray;
+    margin-bottom: 2%;
+}
+.new-button{
+    margin-left: 45%;
 }
