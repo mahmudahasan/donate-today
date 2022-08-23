@@ -24,3 +24,28 @@ body{
     padding: 10px 40px;
     border-radius: 5px;
 }
+.second-section{
+    text-align: center;
+    padding-top: 100px;
+}
+.second-section h1{
+    font-size: 60px;
+}
+.money-box{
+    display: flex;
+    text-align: center;
+    padding-left: 15%;
+}
+.num-1{
+    color: grey;
+    background-color: rgb(240, 239, 239);
+    border-radius: 5px;
+    width: 150px;
+    margin-left: 5%;
+}
+.num-2{
+    color: salmon;
+    background-color: rgb(247, 219, 216);
+    border: 5px solid rgb(252, 110, 94);
+    
+}
