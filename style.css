@@ -118,3 +118,18 @@ body{
     border-radius: 5px;
     background-color: rgb(216, 214, 214);
 }
+footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 5%;
+    background-color: black;
+    text-align: center;
+}
+footer h1{
+    color: salmon;
+    font-family: cursive;
+    font-weight: 900;
+}
+footer h5{
+    color: white;
+}
