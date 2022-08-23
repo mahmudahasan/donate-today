@@ -103,3 +103,18 @@ body{
 .half-width img{
     width: 80%;
 }
+.form-box{
+    text-align: center;
+    background-color: rgb(250, 243, 239);
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 5%;
+}
+.form-box input{
+    border: none;
+    padding: 10px 40px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: rgb(216, 214, 214);
+}
