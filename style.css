@@ -2,3 +2,25 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+.banner{
+    text-align: center;
+    background-image: url(images/edited.jpg);
+    background-repeat: no-repeat;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+.banner h1{
+    color: white;
+    font-size: 50px;
+}
+.banner h2{
+    color: white;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(salmon, red);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
